@@ -39,7 +39,9 @@ git clone https://github.com/mdsohelmahmood/Boston_AirBnB
 ### Statement details:
 ### Question 1--> What are the factors of price variability?
 
-To answer our first question, we need to deep dive on the price variability for different factors such as property type, policy and other accommodations. Here we will factorize the rental price across property type.
+Data is procvided for different listings for the past couple of years. In order to find out the underlying factors of price variability, we need to follow the CRISP-DM method and assess. The business is oriented towards customer satistaction and will be greatly interested to optimize the variations of rental price. The listing data provided us the price acroos differnt factors like property-type, policy etc. We will demonstrate couple of those factors in this project.
+
+So, to answer our first question, we need to deep dive on the price variability for different factors such as property type, policy and other accommodations. We found that these prime factors are considerably influencing the variation of rentals. Since the apartment type is widely available, variation in price is also expected. Next the policy was investigated and it came out that the rental with the most strict policy, usually have the highest rent. Finally the bed type plays a pivotal role of the price estimation of the rental. Those having real bed are listed with higher prices compared to other bed types including sofa, futon or couch. 
 
 ### Question 2--> Is there any correlation between the availability of rents and the price?
 
