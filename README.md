@@ -9,7 +9,7 @@
 3. [Author](#authors)
 4. [License](#license)
 
-<a name="descripton"></a>
+<a name="introduction"></a>
 ## Introduction
 
 This is the analysis for **Boston AirBnB** data. These analysis answer three business/real world questions.
