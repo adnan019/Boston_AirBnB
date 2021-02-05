@@ -45,12 +45,12 @@ So, to answer our first question, we need to deep dive on the price variability 
 
 ### Question 2--> Is there any correlation between the availability of rents and the price?
 
-Next we move forward to answer the second question. To find out the relation between availability of rentals and price, we needed to crunch the data with timestamps. We analyzed the data from August 2016 to August 2017 and tried to dig out that relationship. Some interesting incidents were observed when the availability and prices are shown together. 
+Next we move forward to answer the second question. To find out the relation between availability of rentals and price, we needed to crunch the data with timestamps. We analyzed the data from August 2016 to August 2017 and tried to dig out that relationship. Some interesting incidents were observed when the availability and prices are shown together. Roughly towards the end of 2016 and in February 2017, there were two sharp drops in rental price when in fact the availability did not vary drastically. The trend seemed to stay flat for the rest of the year except a deep dive at some point in April 2017. The price actually mirrored the availability at that time which tells the fundamental rule of demand and supply. The cyclic trend of rental availability is mainly attributed to the fact that weekends offer less number of properties available or listed on the site.. 
 
 
 ### Question 3--> Can the company impact the monthly variation of rents after analyzing the year long trend?
 
-Lastly the monthly variation of rentals are studied to obtain the trend over a year. This is specially crucial for company revenue to be focused on certain months rather than highly depending on peak seasons.
+Lastly the monthly variation of rentals are studied to obtain the trend over a year. This is specially crucial for company revenue to be focused on certain months rather than highly depending on peak seasons. Data shows that September and October have the highest rental price (possible off-peak season) due to less availability. The company may interpret this data to dig out the underlying cause and provide to stakeholders.
 
 <a name="authors"></a>
 ## Author
