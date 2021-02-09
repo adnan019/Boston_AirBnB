@@ -24,8 +24,8 @@ Question 3--> Can the company impact the monthly variation of rents after analyz
 
 <a name="dependencies"></a>
 ### Dependencies
-* Python 3.6+
-* Visualization libraries: Matplotlib
+* Python 3.7
+* Visualization libraries: matplotlib, seaborn
 * Libraries for data and array: pandas and numpy
 
 <a name="cloning"></a>
