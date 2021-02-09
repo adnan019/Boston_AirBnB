@@ -57,7 +57,7 @@ Next we move forward to answer the second question. To find out the relation bet
 
 Lastly the monthly variation of rentals are studied to obtain the trend over a year. This is specially crucial for company revenue to be focused on certain months rather than highly depending on peak seasons. Data shows that September and October have the highest rental price (possible off-peak season) due to less availability. The company may interpret this data to dig out the underlying cause and provide to stakeholders.
 
-
+<a name="summary"></a>
 ### Summary of results
 
 The observation on the niche parts of Boston Airbnb data divulges the variation of price mainly over property type, bed type and policy. Although the apartments are the most common rentals, high-end apartments are good contenders with villas or full house in terms of price. Other than that, apartments are the most widely listed rentals. Some interesting factor was observed when timestamp data was explored. Some high rises and deep dives are not uncommon for a whole year data. End of the summer season signifies the highest price of the rentals during the year
