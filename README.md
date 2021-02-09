@@ -1,4 +1,4 @@
-# Boston_AirBnB
+# Boston_AirBnB Data Exploratory Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
