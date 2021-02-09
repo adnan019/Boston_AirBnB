@@ -6,10 +6,11 @@
 	1. [Dependencies](#dependencies)
 	2. [Cloning](#cloning)
 	3. [Statement details](#execution)
-3. [Author](#authors)
-4. [License](#license)
-5. [Screenshots](#screenshots)
-5. [Files](#files)
+3. [Summary of results](#summary)
+4. [Author](#authors)
+5. [License](#license)
+6. [Screenshots](#screenshots)
+7. [Files](#files)
 
 <a name="introduction"></a>
 ## Introduction
@@ -55,6 +56,11 @@ Next we move forward to answer the second question. To find out the relation bet
 
 Lastly the monthly variation of rentals are studied to obtain the trend over a year. This is specially crucial for company revenue to be focused on certain months rather than highly depending on peak seasons. Data shows that September and October have the highest rental price (possible off-peak season) due to less availability. The company may interpret this data to dig out the underlying cause and provide to stakeholders.
 
+
+### Summary of results
+
+The observation on the niche parts of Boston Airbnb data divulges the variation of price mainly over property type, bed type and policy. Although the apartments are the most common rentals, high-end apartments are good contenders with villas or full house in terms of price. Other than that, apartments are the most widely listed rentals. Some interesting factor was observed when timestamp data was explored. Some high rises and deep dives are not uncommon for a whole year data. End of the summer season signifies the highest price of the rentals during the year
+
 <a name="authors"></a>
 ## Author
 
@@ -63,6 +69,11 @@ Lastly the monthly variation of rentals are studied to obtain the trend over a y
 <a name="license"></a>
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Acknowledments
+
+* Kaggle as data source (https://www.kaggle.com/airbnb/boston)
+* Udacity for providing the opportunity to participate in blog writing
 
 ## Screenshots
 ![Web App](https://github.com/mdsohelmahmood/Boston_AirBnB/blob/main/Figures/3.png)
