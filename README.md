@@ -9,6 +9,7 @@
 3. [Summary of results](#summary)
 4. [Author](#authors)
 5. [License](#license)
+5. [Acknowledgements](#acknowledgements)
 6. [Screenshots](#screenshots)
 7. [Files](#files)
 
