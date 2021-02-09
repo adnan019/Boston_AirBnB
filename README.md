@@ -21,6 +21,17 @@ This is the analysis for **Boston AirBnB** data. The motication of this project 
 Question 1--> What are the factors of price variability?
 Question 2--> Is there any correlation between the availability of rents and the price?
 Question 3--> Can the company impact the monthly variation of rents after analyzing the year long trend?
+
+* CRISP-DM method
+Business understanding – What does the business need? 
+Data understanding – What data do we have / need? Is it clean? 
+Data preparation – How do we organize the data for modeling? 
+Modeling – What modeling techniques should we apply? 
+Evaluation – Which model best meets the business objectives? 
+Deployment – How do stakeholders access the results?
+
+To implement the CRISP-DM method, we first eed to understand the business. The business is oriented towards customer satistaction and will be greatly interested to optimize the variations of rental price. Regarding data, the listing data provided us the price acroos differnt factors like property-type, policy etc. We will demonstrate couple of those factors in this project. The data will be prepared for visualization. We will use descriptive statistics to find answerss to the questions. We do not need modeling, evaluation and deployment to find solutions for the given questions.
+
 <a name="getting_started"></a>
 
 <a name="getting_started"></a>
