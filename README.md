@@ -63,20 +63,21 @@ Lastly the monthly variation of rentals are studied to obtain the trend over a y
 The observation on the niche parts of Boston Airbnb data divulges the variation of price mainly over property type, bed type and policy. Although the apartments are the most common rentals, high-end apartments are good contenders with villas or full house in terms of price. Other than that, apartments are the most widely listed rentals. Some interesting factor was observed when timestamp data was explored. Some high rises and deep dives are not uncommon for a whole year data. End of the summer season signifies the highest price of the rentals during the year
 
 <a name="authors"></a>
-## Author
+### Author
 
 * [Md Sohel Mahmood](https://github.com/mdsohelmahmood)
 
 <a name="license"></a>
-## License
+### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Acknowledments
+<a name="acknowledgements"></a>
+### Acknowledments
 
 * Kaggle as data source (https://www.kaggle.com/airbnb/boston)
 * Udacity for providing the opportunity to participate in blog writing
 
-## Screenshots
+### Screenshots
 ![Web App](https://github.com/mdsohelmahmood/Boston_AirBnB/blob/main/Figures/3.png)
 ![Web App](https://github.com/mdsohelmahmood/Boston_AirBnB/blob/main/Figures/price%20and%20availability%20trend%20over%20time.png)
 
