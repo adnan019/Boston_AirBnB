@@ -70,8 +70,9 @@ Lastly the monthly variation of rentals are studied to obtain the trend over a y
 
 ## Files
 
-Data_Analysis_Boston_AirBnB.ipynb --> the jupyter notebook file performing the analysis
-Figures folder --> contains all the figures used on the blog writing
-A licence file and a readme.md file
+1. Data_Analysis_Boston_AirBnB.ipynb --> the jupyter notebook file performing the analysis
+2. Figures folder --> contains all the figures used on the blog writing
+3. A licence file and 
+4. A readme.md file
 
 
