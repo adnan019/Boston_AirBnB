@@ -8,11 +8,13 @@
 	3. [Statement details](#execution)
 3. [Author](#authors)
 4. [License](#license)
+5. [Screenshots](#screenshots)
+5. [Files](#files)
 
 <a name="introduction"></a>
 ## Introduction
 
-This is the analysis for **Boston AirBnB** data. These analysis answer three business/real world questions.
+This is the analysis for **Boston AirBnB** data. The motication of this project is to perform explorartory data analysis on Airbnb listing data and answer three business/real world questions.
 
 Question 1--> What are the factors of price variability?
 Question 2--> Is there any correlation between the availability of rents and the price?
@@ -37,6 +39,7 @@ git clone https://github.com/mdsohelmahmood/Boston_AirBnB
 
 <a name="execution"></a>
 ### Statement details:
+
 ### Question 1--> What are the factors of price variability?
 
 Data is procvided for different listings for the past couple of years. In order to find out the underlying factors of price variability, we need to follow the CRISP-DM method and assess. The business is oriented towards customer satistaction and will be greatly interested to optimize the variations of rental price. The listing data provided us the price acroos differnt factors like property-type, policy etc. We will demonstrate couple of those factors in this project.
@@ -64,5 +67,11 @@ Lastly the monthly variation of rentals are studied to obtain the trend over a y
 ## Screenshots
 ![Web App](https://github.com/mdsohelmahmood/Boston_AirBnB/blob/main/Figures/3.png)
 ![Web App](https://github.com/mdsohelmahmood/Boston_AirBnB/blob/main/Figures/price%20and%20availability%20trend%20over%20time.png)
+
+## Files
+
+Data_Analysis_Boston_AirBnB.ipynb --> the jupyter notebook file performing the analysis
+Figures folder --> contains all the figures used on the blog writing
+A licence file and a readme.md file
 
 
